@@ -1,6 +1,6 @@
 # Send order (55 emails)
 
-Send in batches so each batch's replies can change the next one. Every email: fill `Vittoria Li` and `Snow e-commerce LLC, 9002 133rd Ave SE, Renton, WA 98059`, swap `{First name}` after confirming the person on LinkedIn or the company site, attach `siting-watch-sample-2026-10-16.pdf`, and log it in `../tracking.csv`.
+Send in batches so each batch's replies can change the next one. Every email: fill `Vittoria Li` and `Snow e-commerce LLC, 9002 133rd Ave SE, Newcastle, WA 98059`, swap `{First name}` after confirming the person on LinkedIn or the company site, attach `siting-watch-sample-2026-10-16.pdf`, and log it in `../tracking.csv`.
 
 ## Batch 1: strongest verified hooks (send first, 15 emails)
 
