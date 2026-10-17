@@ -27,7 +27,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: Prince William's Sep 22 overlay amendment keeps by-right status only for parcels already in the overlay that are vested or file within 90 days (we compute about Dec 21). This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -61,7 +61,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: Louisville's Planning & Zoning Committee has a tentative vote Nov 17 on its new data center code; the Planning Commission draft caps data centers at 500,000 sq ft and limits them to M-1. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -93,7 +93,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: Prince George's County, MD put CB-085-2026 (qualified data centers in rural and residential zones) on indefinite hold in committee Sep 21, 4-0. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -127,7 +127,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: three data center moratoria in our sample now have known end dates (Louisville, Pima about Jan 20, DeKalb Mar 30, 2027), each tied to a code rewrite now in committee. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -161,7 +161,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: Spotsylvania's 555-acre Crossroads Technology Campus (894 MW on the utility form) won a 4-2 planning commission recommendation Sep 16, and its draft comprehensive plan caps data center designation at 45% of industrial acreage. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -195,7 +195,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: Kansas City's Plan Commission voted 6-0 on Aug 5 to deny a 20-story downtown data center, seven months after the council adopted the city's first data center zoning rules. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -228,7 +228,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: DeKalb's moratorium covers building permits, land disturbance permits and certificates of occupancy, not just rezonings, and two owners sued in August to void it. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -262,7 +262,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: Pima County's 120-day data center moratorium (adopted Sep 22, 3-2) runs to about Jan 20, with the zoning text amendment due at Planning & Zoning first. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -295,7 +295,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: Taylor's agreement lets the city regulate water use, noise and air quality on a campus that sits in unincorporated Williamson County, which is the route Texas cities are using in place of zoning. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -327,7 +327,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: Louisville's committee meets Oct 27 (tentative) on zoning classifications, the CUP process, maximum size and setbacks; the Planning Commission draft caps data centers at 500,000 sq ft. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -361,7 +361,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: the Prince William change gives parcels already in the overlay about 90 days (we compute about Dec 21) to file an application or site plan and keep by-right status. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -393,7 +393,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: Taylor, TX approved an annexation agreement Oct 8 for a 664-acre campus in unincorporated Williamson County so the city can set water, noise and air-quality rules. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -427,7 +427,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: Pima County's 120-day data center moratorium (Sep 22) runs to about Jan 20, and Pinal supervisors denied the La Osa rezoning 4-1 on Aug 26 after P&Z approval. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -460,7 +460,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: Loudoun's Oct 20 agenda includes a motion to move the Golden Substation decision up from Dec 1 to Nov 5, alongside the 12-month pause vote. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -493,7 +493,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: Mesa's planning and zoning board approved EdgeCore's scaled-back campus Mar 11 with generator testing limited to 9 a.m.-9 p.m., a condition other Mesa applicants may see. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -526,7 +526,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: Spotsylvania's draft comprehensive plan, recommended 5-0 on Oct 7, would cap data center designation at 45% of industrially zoned acreage. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -560,7 +560,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: DeKalb's Aug 13 draft would bar data centers over 1,000,000 sq ft and sort the rest by size, MW, water and noise class. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -593,7 +593,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: Jackson County legislators took up a 180-day moratorium on new data centers and battery storage in June; Louisville, Pima and DeKalb all have moratoria with known end dates. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -626,7 +626,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: Loudoun votes Oct 20 on pausing Board action on data center and substation applications for up to 12 months, retroactive to Sep 15. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -659,7 +659,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: Prince William closed its data center overlay map Sep 22; parcels in the overlay must be vested or file within about 90 days (we compute about Dec 21) to keep by-right status. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -692,7 +692,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: Prince George's also has CB-103-2026 pending, which would reduce and restructure the personal property tax exemption for qualified data centers. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -725,7 +725,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: Loudoun votes Oct 20 on pausing Board action on data center and substation applications for up to 12 months, retroactive to Sep 15. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -758,7 +758,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: DeKalb's definitions ordinance, whose draft bars data centers over 1,000,000 sq ft, was deferred Oct 13 to a Nov 10 committee meeting. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -791,7 +791,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: Louisville's planning commission draft would cap data centers at 500,000 sq ft and require a CUP above 50,000 sq ft; the committee vote is tentatively Nov 17. This is the kind of thing the alert would have flagged. Want me to set up your counties?
@@ -824,7 +824,7 @@ Founding price is $199/month for 10 counties (start here: https://buy.stripe.com
 
 [Your name]
 
-[Your mailing address] · Reply 'no' and I won't email again.
+This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 ```
 
 **Day-2 follow-up:** Quick add: Prince William closed its data center overlay map 8-0 on Sep 22; parcels in the overlay must be vested or file within about 90 days (we compute about Dec 21) to keep by-right status. This is the kind of thing the alert would have flagged. Want me to set up your counties?

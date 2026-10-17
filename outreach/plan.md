@@ -78,7 +78,7 @@ Subject: Tracking data center hearings across {state/region}
 >
 > {Your name}
 
-Every email: put your mailing address and one line like "Reply 'no' and I won't email again" at the bottom (CAN-SPAM).
+Every email ends with the footer: "This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again." (CAN-SPAM: cold sales email must say it is an advertisement, give a real postal address, and offer a working opt-out; there is no business-to-business exemption.) The From name and the subject line must be accurate. Honor an opt-out the same day and never email that person again.
 
 ## Follow-ups
 
@@ -158,6 +158,8 @@ Each email entry has: To (person or role + LinkedIn hint), Subject, Body, Day-2 
 - Change prices, offer discounts, or promise delivery dates the plan doesn't state, without the founder.
 - Email anyone who opted out, or anyone at a company that has asked not to be contacted.
 - Post in Reddit, forums or group chats.
+- Send an email without the footer above, with a misleading subject or From name, or to an address you guessed rather than found published.
+- Text anyone, or make a cold sales call (Texas telemarketing registration, Bus. & Com. Code ch. 302, has no general business-to-business exemption and the question is open).
 
 ## Report to the founder
 

@@ -30,7 +30,7 @@ Every email ends with the sign-off "[Your name]" and the CAN-SPAM footer. Attach
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: the Legislature's AI and Data Center Committee was set to meet Oct 6 at Grand Farm near Casselton, with data center impacts on local government on its agenda. I can watch Cass County, Harmony and Durbin townships and the state committee together. Want me to set that up?
 
@@ -61,7 +61,7 @@ Every email ends with the sign-off "[Your name]" and the CAN-SPAM footer. Attach
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: Cerro Gordo adopted Ordinance 69 unanimously on Dec 23, 2024, and it also removed these projects from the special-use path, so a later amendment would be a big deal. The alert would flag it the day it's noticed. Want me to set up Cerro Gordo, Clinton and Fayette?
 
@@ -92,7 +92,7 @@ Every email ends with the sign-off "[Your name]" and the CAN-SPAM footer. Attach
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: Baldwin's zoning director said full permits and notice to proceed wait on ADEM and Army Corps concurrence. The District 3 committee's draft rules will reach the Commission agenda before the moratorium ends. I can flag both the day they post. Want me to set up your counties?
 
@@ -124,7 +124,7 @@ Every email ends with the sign-off "[Your name]" and the CAN-SPAM footer. Attach
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: Perkins County, NE approved your CUP 2-1 on Jan 20. The permit requires decommissioning security within six years of operation and gives three years to start. Conditions like those can come back on a commission agenda. Want me to watch Perkins, Stafford, Adams and Dubois?
 
@@ -154,7 +154,7 @@ Every email ends with the sign-off "[Your name]" and the CAN-SPAM footer. Attach
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: in Knox County, two commissioners won their seats on anti-solar platforms during the Frasier Solar fight. Shifts like that show up in local agendas long before the OPSB docket. Want me to set up Knox, Morrow, Lancaster and your Virginia counties?
 
@@ -184,7 +184,7 @@ Every email ends with the sign-off "[Your name]" and the CAN-SPAM footer. Attach
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: with Great Bend in Meigs County now operating, Ohio local positions are worth watching too. The OPSB denied a 94 MW project in Morrow County on Mar 19 because every local government opposed it. Want me to add your Ohio and Indiana counties?
 
@@ -215,7 +215,7 @@ Every email ends with the sign-off "[Your name]" and the CAN-SPAM footer. Attach
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: the Oct 6 McLean ZBA agenda confirms Nov 3 as the next meeting. Its notice also lists an Oct 22 county zoning officials' seminar on "Data Center Regulations," so the same boards are taking on data centers next. I can send the Nov 3 agenda the day it posts. Want that?
 
@@ -246,7 +246,7 @@ Every email ends with the sign-off "[Your name]" and the CAN-SPAM footer. Attach
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: Arizona counties are rewriting land-use rules fast. Pima County's data center moratorium runs to about Jan 20, with a zoning text amendment due first (it's in the attached sample). Want me to set up Maricopa, Yavapai and your Texas counties?
 
@@ -276,7 +276,7 @@ Every email ends with the sign-off "[Your name]" and the CAN-SPAM footer. Attach
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: in Madison County, Oak Run's Sep 17 approval was 7-2, and both "no" votes came from the county and township members seated under SB 52. That's the kind of local position the alert tracks. Want me to set up Vinton plus your Arizona and California counties?
 
@@ -306,7 +306,7 @@ Every email ends with the sign-off "[Your name]" and the CAN-SPAM footer. Attach
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: by contrast, Vinton County's commissioners declined to use their veto on Recurrent's Hamden Energy, which the OPSB approved unanimously in August. County-by-county differences like that are what the brief tracks. Want me to set up Madison plus your Indiana and Kansas counties?
 
@@ -337,7 +337,7 @@ Every email ends with the sign-off "[Your name]" and the CAN-SPAM footer. Attach
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add for Virginia: on Oct 21, Frederick County's Planning Commission holds a hearing on allowing BESS by CUP, with 200-ft setbacks and NFPA 855. The same night, Spotsylvania hears a Dominion BESS presentation. Want me to add Cumberland County and nearby counties to your watchlist?
 
@@ -369,7 +369,7 @@ Every email ends with the sign-off "[Your name]" and the CAN-SPAM footer. Attach
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: Cerro Gordo County, IA went further and removed utility-scale solar and BESS from the special-use path on agricultural land entirely (Ordinance 69). The alert would flag a change like that the day it's noticed. Want me to set up your counties?
 
@@ -401,7 +401,7 @@ Every email ends with the sign-off "[Your name]" and the CAN-SPAM footer. Attach
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add from Apex's home state: on Oct 21, Frederick County's Planning Commission holds a hearing on its first BESS-by-CUP rules, and Spotsylvania hears a Dominion BESS presentation. Both are in the attached sample. Want me to set up your counties?
 
@@ -432,7 +432,7 @@ Every email ends with the sign-off "[Your name]" and the CAN-SPAM footer. Attach
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: Cerro Gordo County, IA now bars utility-scale BESS on agricultural land outright (Ordinance 69), and the county is in court over a state-certified solar project. Want me to set up Mississippi County and your other active counties?
 
@@ -464,7 +464,7 @@ Every email ends with the sign-off "[Your name]" and the CAN-SPAM footer. Attach
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: Stafford County, KS adopted lithium BESS standards in March (fencing, design, setbacks), then approved a 2,400-acre solar plus storage CUP 4-2 in September. Want me to set up your Arizona, Indiana and Missouri counties?
 
@@ -495,7 +495,7 @@ Every email ends with the sign-off "[Your name]" and the CAN-SPAM footer. Attach
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: Stafford County, KS adopted solar and lithium BESS standards in March, then approved a 2,400-acre solar plus storage CUP 4-2 in September. Want me to set up the counties where your projects are in permitting?
 

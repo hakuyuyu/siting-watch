@@ -26,7 +26,7 @@ Notes that apply to the whole file:
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: Frederick County's last two grandfathered data center cases (Winchester Gateway and Virginia Technology Park) go to the Board on Oct 28, and the Planning Commission recommended denial of both. Want me to add Culpeper and its neighbors to a free brief?
 
@@ -52,7 +52,7 @@ Notes that apply to the whole file:
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: Pima's moratorium work plan sends a data center zoning text amendment to its Planning & Zoning Commission at "the October hearing," ahead of a Board vote before the moratorium expires. Want Pinal and Maricopa set up alongside Pima?
 
@@ -82,7 +82,7 @@ Notes that apply to the whole file:
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: Loudoun's Board votes Oct 20 on pausing final action on legislative data center and substation applications for up to 12 months, retroactive to Sep 15. Want me to set up Loudoun, Prince William and your central Virginia counties?
 
@@ -111,7 +111,7 @@ Notes that apply to the whole file:
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: DeKalb deferred its data center definitions ordinance to a Nov 10 committee meeting, and the draft bars data centers over 1,000,000 sq ft. Want South Fulton, DeKalb and your other metro counties in a free brief?
 
@@ -141,7 +141,7 @@ Notes that apply to the whole file:
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: three of the sample's jurisdictions now have moratoria with known end dates (Louisville, Pima to ~Jan 20, DeKalb to Mar 30, 2027), which is the sort of thing a shortlist check would flag. Want me to run one on a client's shortlist?
 
@@ -169,7 +169,7 @@ Notes that apply to the whole file:
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: Frederick County, VA, removed data centers from every zoning district on Sep 23, and only two grandfathered cases remain (hearing Oct 28). Want me to check a client shortlist for changes like that?
 
@@ -195,7 +195,7 @@ Notes that apply to the whole file:
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: the sample's policy table now lists four approaches localities are using (removing the use, closing overlays, pausing decisions, moratoria), and San Marcos's citywide ban fits the first. Want Hays, Comal, Travis and Caldwell set up for a free brief?
 
@@ -225,7 +225,7 @@ Notes that apply to the whole file:
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: Frederick County's Planning Commission holds a hearing Oct 21 on its first BESS ordinance (CUP in five districts, 200-ft setbacks), ahead of the state model ordinance due Dec 1. Want me to add Powhatan, Chesterfield and your other counties?
 
@@ -254,7 +254,7 @@ Notes that apply to the whole file:
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: Pima County, AZ's 120-day moratorium has a waiver path, available by Board vote after a public hearing with 1,000-ft notice. That kind of exit route is what the brief pulls out of the resolution text. Want Hill, Hood and your other Texas counties set up?
 
@@ -283,7 +283,7 @@ Notes that apply to the whole file:
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: Louisville's data center code (500,000 sf cap, M-1 only in the Planning Commission draft) is in committee, with a possible vote Nov 17. Want the Illinois counties you're active in set up for a free brief?
 
@@ -309,7 +309,7 @@ Notes that apply to the whole file:
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: Pima County, AZ, adopted a 120-day data center moratorium 3-2 on Sep 22 (KJZZ reports it exempts two named projects), a Western example of how fast the rules move. Want me to run Northern Nevada for free this week?
 
@@ -335,7 +335,7 @@ Notes that apply to the whole file:
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: Spotsylvania's 555-acre Crossroads Technology Campus (894 MW estimated load, three substations) has a Planning Commission recommendation of approval, and its Board hearing date isn't posted yet. The alert would flag it the day it posts. Want that set up?
 
@@ -361,7 +361,7 @@ Notes that apply to the whole file:
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: DeKalb's draft data center ordinance (committee Nov 10) would bar data centers over 1,000,000 sq ft, a size cap that affects what a parcel can be marketed for. Want me to run your listing counties free this week?
 
@@ -387,7 +387,7 @@ Notes that apply to the whole file:
 >
 > [Your name]
 >
-> [Your mailing address] · Reply 'no' and I won't email again.
+> This is a commercial email. [Your mailing address] · Reply 'no' and I won't email again.
 
 **Day-2 follow-up:** Quick add: Prince William's overlay pipeline window, for data center, substation or site-plan filings, closes about Dec 21 (our computation from the adopted text). After that, filings lose by-right status. Want me to set up your Virginia counties?
 
